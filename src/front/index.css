@@ -1,0 +1,12 @@
+
+body{
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-app-region: drag,
+}
+
+.homeMaid {
+    max-height: 224px;
+}
